@@ -1,0 +1,8 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/popular_sort_item"
+        android:title="@string/popular_sort_title"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/rating_sort_item"
+        android:title="@string/rating_sort_title" />
+</menu>

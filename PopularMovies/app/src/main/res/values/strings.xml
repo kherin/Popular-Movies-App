@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="popular_sort_title">Popular</string>
+    <string name="rating_sort_title">Top Rated</string>
+    <string name="original_title_text">Original Title</string>
+    <string name="plot_text">Overview</string>
+    <string name="release_date_text">Release Date</string>
+    <string name="user_rating_text">User Rating</string>
+</resources>
